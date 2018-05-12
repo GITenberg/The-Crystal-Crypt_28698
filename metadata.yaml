@@ -1,0 +1,41 @@
+_repo: The-Crystal-Crypt_28698
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dick, Philip K.
+    alias: Dick, Philip Kindred
+    birthdate: 1928
+    deathdate: 1982
+    gutenberg_agent_id: '33399'
+    url: http://www.gutenberg.org/2009/agents/33399
+    wikipedia: http://en.wikipedia.org/wiki/Philip_K._Dick
+description: <p>In the distant future, when Earth and Mars are on the verge of war,
+  the last Earthmen departing the red planet are held up by Martian soldiers searching
+  for three saboteurs who destroyed an entire Martian city--an event that will quickly
+  bring the precarious interplanetary conflict to a head. </p><p>Philip K. Dick was
+  an American science-fiction novelist, short-story writer and essayist. His first
+  short story, "Beyond Lies the Wub," was published shortly after his high school
+  graduation. Some of his most famous short stories were adapted for film, including
+  "The Minority Report," "Paycheck," "Second Variety" (adapted into the film <em>Screamers</em>)
+  and "We Can Remember It For You Wholesale" (adapted into the film <em>Total Recall</em>).</p><p>HarperCollins
+  brings great works of literature to life in digital format, upholding the highest
+  standards in ebook production and celebrating reading in all its forms. Look for
+  more titles in the HarperCollins short-stories collection to...
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28698'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Crystal Crypt
+url: http://www.gutenberg.org/ebooks/28698
